@@ -1,4 +1,4 @@
-#Tecnologia-de-Big-Data
+#TecnologiadeBigData
 
 Actividades del Curso
 
